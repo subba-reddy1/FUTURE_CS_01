@@ -54,3 +54,6 @@ All task reports and screenshots are uploaded here for evaluation.
 ---
 
 ⭐ This repository represents my practical learning journey in Cyber Security.# FUTURE_CS_01
+## 📂 Completed Tasks
+
+- ✅ Task 1: Vulnerability Assessment Report
