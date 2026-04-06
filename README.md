@@ -56,5 +56,11 @@ All task reports and screenshots are uploaded here for evaluation.
 ⭐ This repository represents my practical learning journey in Cyber Security.# FUTURE_CS_01
 ## 📂 Completed Tasks
 
-- ✅ Task 1: Vulnerability Assessment Report
-- ✅ Task 2: Phishing Detection & Awareness Report
+- ✅ Task 1: Vulnerability Assessment Report  
+- ✅ Task 2: Phishing Detection & Awareness  
+- ✅ Task 3: API Security Risk Analysis  
+
+---
+
+## 🔗 Repository Purpose
+This repository contains all tasks completed as part of my Cyber Security Internship at Future Interns.
