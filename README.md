@@ -57,3 +57,4 @@ All task reports and screenshots are uploaded here for evaluation.
 ## 📂 Completed Tasks
 
 - ✅ Task 1: Vulnerability Assessment Report
+- ✅ Task 2: Phishing Detection & Awareness Report
