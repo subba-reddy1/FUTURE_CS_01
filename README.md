@@ -6,61 +6,93 @@
 - Organization: Future Interns  
 - Duration: March 2026 – April 2026  
 
+# 🔐 Task 1: Vulnerability Assessment Report
+
+## 👨‍💻 Intern Details
+
+* **Name:** Karri Sri Harinadha Subba Reddy
+* **Internship:** Cyber Security
+* **Organization:** Future Interns
+
 ---
 
-## 📌 About This Repository
-This repository contains all the tasks and projects completed as part of the Cyber Security Internship program.
+## 📌 Objective
+
+To perform a vulnerability assessment on a web application and identify potential security risks.
 
 ---
 
-## 📂 Tasks Completed
+## 🌐 Target Website
 
-### 🔹 Task 1: Vulnerability Assessment
-- Website security analysis
-- Identified vulnerabilities
-- Risk classification and fixes
-
-### 🔹 Task 2: Phishing Detection & Awareness
-- Analyzed phishing emails
-- Classified threats
-- Created awareness report
-
-### 🔹 Task 3: API Security Risk Analysis
-- Tested APIs for vulnerabilities
-- Identified security risks
-- Suggested improvements
+http://demo.testfire.net
 
 ---
 
 ## 🛠️ Tools Used
-- Nmap  
-- Burp Suite  
-- Wireshark  
-- OWASP ZAP  
-- Postman  
+
+* Nmap
+* Google Chrome
+
+---
+
+## 🔍 Findings
+
+### 🔴 1. Insecure Communication (HTTP)
+
+* The website uses HTTP and shows "Not Secure"
+* Data transmission is not encrypted
+
+**Risk Level:** High
+**Recommendation:** Use HTTPS with SSL/TLS
+
+---
+
+### 🟡 2. Filtered Ports (Firewall Detected)
+
+* Nmap scan shows all ports are filtered
+* Indicates presence of firewall protection
+
+**Risk Level:** Low
+**Recommendation:** Maintain firewall configuration
+
+---
+
+### 🟠 3. Input Validation Testing
+
+* Tested input fields using script injection
+* No alert executed
+
+**Risk Level:** Medium
+**Recommendation:** Improve input validation and sanitization
+
+---
+
+## 📸 Screenshots
+
+* Not Secure Website
+* Nmap Scan Output
+* Input Testing
+
+---
+
+## 📄 Report
+
+👉 [Download Task 1 Report](./Task1_Report.pdf)
 
 ---
 
 ## 📈 Learning Outcome
-- Gained hands-on experience in cybersecurity tools
-- Understood real-world security risks
-- Improved problem-solving skills
+
+* Learned how to identify web vulnerabilities
+* Gained hands-on experience with Nmap
+* Understood importance of secure communication (HTTPS)
 
 ---
 
-## 🔗 GitHub Repository
-All task reports and screenshots are uploaded here for evaluation.
+## 🚀 Conclusion
 
----
+The application has basic security measures but lacks HTTPS, which is a critical vulnerability. Implementing secure communication and improving validation will enhance overall security.
 
-⭐ This repository represents my practical learning journey in Cyber Security.# FUTURE_CS_01
-## 📂 Completed Tasks
-
-- ✅ Task 1: Vulnerability Assessment Report  
-- ✅ Task 2: Phishing Detection & Awareness  
-- ✅ Task 3: API Security Risk Analysis  
-
----
 
 ## 🔗 Repository Purpose
 This repository contains all tasks completed as part of my Cyber Security Internship at Future Interns.
